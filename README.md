@@ -1,6 +1,19 @@
-# Portafolio
-Proyectos Realizados para un portafolio
+# Bienvenido a mi Portafolio
 
-Los Primeros proyectos son con HTML Y CSS 100% responsive.
+¡Hola! Soy Alejandro Aquino, un estudiante en busca de oportunidades laborales en el campo del desarrollo web.
 
-<br>Se estan desarrollando otros proyectos que aun no estan en el portafolio utilizando otros lenguajes.
+## Proyectos Realizados
+
+En esta sección encontrarás una recopilación de proyectos que he realizado para mi portafolio. Los primeros proyectos están desarrollados utilizando HTML y CSS, con un diseño completamente responsive.
+
+Actualmente estoy trabajando en nuevos proyectos que aún no han sido añadidos al portafolio. Estos proyectos están siendo desarrollados utilizando diversos lenguajes y tecnologías. Una vez finalizados, serán subidos en su totalidad al portafolio.
+
+## ⚡ Conocimientos
+
+- Desarrollo front-end utilizando HTML, JavaScript y CSS
+- Desarrollo backend utilizando SQL y PHP
+- Experiencia trabajando con directorios activos
+- Actualmente aprendiendo Node.js y Ajax
+- Desarrollo de aplicaciones para Android utilizando Android Studio (en proceso de aprendizaje)
+
+¡Gracias por tomarte el tiempo para revisar mi README! Estoy siempre abierto a nuevas oportunidades y colaboraciones. Si tienes algún consejo o sugerencia para mejorar mis proyectos o mi perfil, ¡estaré encantado de escucharlo!
