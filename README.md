@@ -16,4 +16,13 @@ Actualmente estoy trabajando en nuevos proyectos que aún no han sido añadidos 
 - Actualmente aprendiendo Node.js y Ajax
 - Desarrollo de aplicaciones para Android utilizando Android Studio (en proceso de aprendizaje)
 
-¡Gracias por tomarte el tiempo para revisar mi README! Estoy siempre abierto a nuevas oportunidades y colaboraciones. Si tienes algún consejo o sugerencia para mejorar mis proyectos o mi perfil, ¡estaré encantado de escucharlo!
+## 🔗 Demo.
+- https://freelancer-zetaaquino.netlify.app/
+- https://blog-ejemplo-cafe.netlify.app/
+- https://bienesraices-ejemplo-alejandro.netlify.app/
+
+## 🚀 Proyectos en Curso.
+- Ahora trabajare añadiendo programacion Orientada a Objetos al Proyecto de "BIENES RAICES".
+
+
+¡Gracias por tomarte el tiempo para revisar mi README! Estoy siempre abierto a nuevas oportunidades y colaboraciones. Si tienes algún consejo o sugerencia para mejorar mis proyectos o mi perfil, ¡estaré encantado de escucharlo! Puedes contactarme en 📫 alexs199.ale@gmail.com
